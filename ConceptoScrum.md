@@ -1,7 +1,7 @@
 # RepositorioTSDWAD2022
 Primer repositorio creado para el Grupo 1 del Aula 33 del TSDWAD 2022
 
- :::: TENGAN OJO CON LO QUE TOCAN POR FAVOT ::::
+ :::: TENGAN OJO CON LO QUE TOCAN POR FAVOR ::::
 
 CEREMONIAS, ARTEFACTOS Y ROLES
 
