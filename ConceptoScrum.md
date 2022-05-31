@@ -21,3 +21,4 @@ SPRINT PLANNING MEETING - PLANIFICACION:
 . Formar equipos (teniendo en cuenta diferencias de nivel, habilidad y genero)
 . Escoger el tema que queremos trabajar
 . Priorizar los temas que se van a trabajar primero, en que orden y porqué
+s
