@@ -17,6 +17,7 @@ eficiente y creativa con el máximo valor.
 CEREMONIAS, ARTEFACTOS Y ROLES
 
 CEREMONIAS:
+
 Serie de reuniones en grupo que se realizan a lo largo del proyecto para llevar un control de trabajo
 
 . Sprint Planning Meeting (Reunion de planificacion del Sprint) Decidir que se va a realizar en el Sprint
