@@ -16,7 +16,7 @@ eficiente y creativa con el máximo valor.
 
 # CEREMONIAS, ARTEFACTOS Y ROLES
 
-###### CEREMONIAS:
+## CEREMONIAS:
 
 Serie de reuniones en grupo que se realizan a lo largo del proyecto para llevar un control de trabajo
 
@@ -28,7 +28,7 @@ Serie de reuniones en grupo que se realizan a lo largo del proyecto para llevar 
 
 . _Sprint Retrospective Meeting_ (Reunion de retrospectiva del Sprint) Centrar al equipo en lo que salió bien y en lo que se debe mejorar. No estancarse en lo que salio mal
 
-###### ROLES:
+## ROLES:
 
 . _Product Owner_: es responsable de definir y priorizar temas y objetivos con criterios de aceptacion, QUÉ
 
