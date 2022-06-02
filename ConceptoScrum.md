@@ -56,8 +56,8 @@ Este artefacto permite entender cuál es la evolución del trabajo durante el Sp
 De esta forma, se construye el software de manera iterativa e incremental, repitiendo el proceso de planificación, diseño, desarrollo, testeo y entrega.
 
  - Otros artefactos: Si bien los 3 anteriores son imprescindibles, hay otros que pueden ser necesarios para asegurar la calidad de la metodología:
-	1- Definition of Done (DoD): Define qué se considera hecho en un equipo Scrum.
-	2- Definition of Ready (DoR): Define un requerimiento listo para entender, valorar, y ser incluído en un Sprint Planning.
-	3- Burndown Chart: Es un gráfico de trabajo pendiente que muestra la velocidad a la que se cumplen los objetivos. Ayudar a saber si el equipo podrá completar el trabajo en el tiempo estimado.
+	-1- Definition of Done (DoD): Define qué se considera hecho en un equipo Scrum.
+	-2- Definition of Ready (DoR): Define un requerimiento listo para entender, valorar, y ser incluído en un Sprint Planning.
+	-3- Burndown Chart: Es un gráfico de trabajo pendiente que muestra la velocidad a la que se cumplen los objetivos. Ayudar a saber si el equipo podrá completar el trabajo en el tiempo estimado.
 
 //AGREGADOS MIS CONCEPTOS - ONAINDIA NAHUEL - ALEJANDRO MORENO
