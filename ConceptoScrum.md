@@ -65,13 +65,13 @@ De esta forma, se construye el software de manera iterativa e incremental, repit
 #Procesos y Ciclo de vida 
 
 
--Un ciclo de vida es el conjunto de fases o procesos por las que pasa 
+-**Un ciclo de vida es el conjunto de fases o procesos por las que pasa 
 el sistema de software desde que se concibe o inicio, se desarrolla 
 hasta que se retira del servicio finalizando su uso.
--Las fases o procesos están estandarizados, es decir que existe un 
+-**Las fases o procesos están estandarizados, es decir que existe un 
 marco de referencia que contiene los procesos, 
 las actividades y las tareas involucradas en el desarrollo, explotación 
 y mantenimiento de un producto 
 de software, abarcando la vida del sistema, desde la definición de 
 requerimientos hasta la finalización de su uso.
-//AGREGADO CELESTE RUIZ
+//AGREGADO- CELESTE RUIZ
