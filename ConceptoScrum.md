@@ -61,6 +61,7 @@ De esta forma, se construye el software de manera iterativa e incremental, repit
 	 - *Burndown Chart*: Es un gráfico de trabajo pendiente que muestra la velocidad a la que se cumplen los objetivos. Ayudar a saber si el equipo podrá completar el trabajo en el tiempo estimado. 
 
 //AGREGADOS MIS CONCEPTOS - ONAINDIA NAHUEL - ALEJANDRO MORENO
+
 #Ciclo de vida y Proceso
 Un ciclo de vida es el conjunto de fases o procesos por las que pasa  el sistema de software desde que se concibe o inicio, se desarrolla  hasta que se retira del servicio finalizando su uso.
 Las fases o procesos están estandarizados, es decir que existe un  marco de referencia que contiene los procesos, 
