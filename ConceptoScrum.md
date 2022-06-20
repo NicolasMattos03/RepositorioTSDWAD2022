@@ -68,6 +68,8 @@ Las fases o procesos están estandarizados, es decir que existe un  marco de ref
 las actividades y las tareas involucradas en el desarrollo, explotación  y mantenimiento de un producto  de software, abarcando la vida del sistema, desde la definición de requerimientos hasta la finalización de su uso.
 
 // AGREGADO -CELESTE RUIZ
+
+
 La agilidad, relacionada con proyectos, está basada en ideologías que permiten la adaptación de los principios que guían el desarrollo de los mismos, adaptándolos continuamente a la evolución y mejora de ellos. El Manifiesto Agile está compuesto por los valores que guían la colaboración, la respuesta ante los cambios constantes, la atención y colaboración de los clientes, los individuos por encima del proceso y el software antes que la documentación exhaustiva.
 
 // Agregado  CLAUDIA  SOBRERO
