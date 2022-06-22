@@ -4,7 +4,7 @@ Primer repositorio creado para el Grupo 1 del Aula 33 del TSDWAD 2022
 
 :::: TENGAN OJO CON LO QUE TOCAN POR FAVOR ::::
 
-Concepto de SCRUM - 
+> Concepto de SCRUM - 
 
 Es un marco de trabajo a través
 del cual las personas pueden abordar
