@@ -66,7 +66,7 @@ De esta forma, se construye el software de manera iterativa e incremental, repit
 
 //AGREGADOS MIS CONCEPTOS - ONAINDIA NAHUEL - ALEJANDRO MORENO
 
-#Ciclo de vida y Proceso
+# CICLO DE VIDA Y PROCESOS
 
 > CICLO DE VIDA
  
@@ -78,7 +78,10 @@ las actividades y las tareas involucradas en el desarrollo, explotación  y mant
 
 // AGREGADO -CELESTE RUIZ
 
+# LA AGILIDAD RELACIONADA CON PROYECTOS
+
+> LA AGILIDAD
 
 La agilidad, relacionada con proyectos, está basada en ideologías que permiten la adaptación de los principios que guían el desarrollo de los mismos, adaptándolos continuamente a la evolución y mejora de ellos. El Manifiesto Agile está compuesto por los valores que guían la colaboración, la respuesta ante los cambios constantes, la atención y colaboración de los clientes, los individuos por encima del proceso y el software antes que la documentación exhaustiva.
 
-// Agregado  CLAUDIA  SOBRERO
+// Agregado CLAUDIA  SOBRERO
