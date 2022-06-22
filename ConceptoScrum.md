@@ -4,6 +4,8 @@ Primer repositorio creado para el Grupo 1 del Aula 33 del TSDWAD 2022
 
 :::: TENGAN OJO CON LO QUE TOCAN POR FAVOR ::::
 
+# SCRUM
+
 > Concepto de SCRUM - 
 
 Es un marco de trabajo a través
@@ -16,7 +18,7 @@ eficiente y creativa con el máximo valor.
 
 # CEREMONIAS, ARTEFACTOS Y ROLES
 
-## CEREMONIAS:
+> CEREMONIAS:
 
 Serie de reuniones en grupo que se realizan a lo largo del proyecto para llevar un control de trabajo
 
@@ -28,7 +30,7 @@ Serie de reuniones en grupo que se realizan a lo largo del proyecto para llevar 
 
 . _Sprint Retrospective Meeting_ (Reunion de retrospectiva del Sprint) Centrar al equipo en lo que salió bien y en lo que se debe mejorar. No estancarse en lo que salio mal
 
-## ROLES:
+> ROLES:
 
 . _Product Owner_: es responsable de definir y priorizar temas y objetivos con criterios de aceptacion, QUÉ
 
@@ -37,6 +39,8 @@ Serie de reuniones en grupo que se realizan a lo largo del proyecto para llevar 
 . _Scrum Master o Facilitador_: será uno de los integrantes del grupo (no es un lider, ya que son equipos auto-organizados con un facilitador que les ayuda a pensar a todos juntos para obtener un resultado mejor)
 
 # ARTEFACTOS
+
+> ARTEFACTOS
 
 Se denomina *Artefacto* a los elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos son; el Product Backlog, Sprint Backlog, y el incremento.
 
@@ -63,7 +67,12 @@ De esta forma, se construye el software de manera iterativa e incremental, repit
 //AGREGADOS MIS CONCEPTOS - ONAINDIA NAHUEL - ALEJANDRO MORENO
 
 #Ciclo de vida y Proceso
+
+> CICLO DE VIDA
+ 
 Un ciclo de vida es el conjunto de fases o procesos por las que pasa  el sistema de software desde que se concibe o inicio, se desarrolla  hasta que se retira del servicio finalizando su uso.
+
+> PROCESO
 Las fases o procesos están estandarizados, es decir que existe un  marco de referencia que contiene los procesos, 
 las actividades y las tareas involucradas en el desarrollo, explotación  y mantenimiento de un producto  de software, abarcando la vida del sistema, desde la definición de requerimientos hasta la finalización de su uso.
 
