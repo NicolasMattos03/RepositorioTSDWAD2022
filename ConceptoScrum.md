@@ -64,7 +64,7 @@ De esta forma, se construye el software de manera iterativa e incremental, repit
 	 - *Definition of Ready* (DoR): Define un requerimiento listo para entender, valorar, y ser incluído en un Sprint Planning.
 	 - *Burndown Chart*: Es un gráfico de trabajo pendiente que muestra la velocidad a la que se cumplen los objetivos. Ayudar a saber si el equipo podrá completar el trabajo en el tiempo estimado. 
 
-//AGREGADOS MIS CONCEPTOS - ONAINDIA NAHUEL - ALEJANDRO MORENO
+//AGREGADOS MIS CONCEPTOS - ONAINDIA NAHUEL - ALEJANDRO MORENO - AGREGADO DE CAMBIO PARA SPRINT 1 DE GIT (PRUEBA)
 
 # CICLO DE VIDA Y PROCESOS
 
